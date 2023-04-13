@@ -1,0 +1,4 @@
+basicforms/django-coursera-env
+basicforms/myproject/myapp/__pycache__
+basicforms/myproject/myapp/migrations/__pycache__
+.DS_Store
