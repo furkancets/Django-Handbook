@@ -20,6 +20,11 @@ Meta class'ı django'nun default methodudur. Model olarak Booking'i kullanacağ�
 Uygulamayı çalıştırmak için dockerize etmeniz yeterli 
 
 * docker build -t basicform:0.0.1 .  
-* docker run -p 8000:8000 -d basicform:0.0.1 
+* docker run -p 8000:8000 -d --name formcontainer basicform:0.0.1
+
+Eğer admin tarafından kontol etmek istiyorsak container içinde girip;
+* docker exec -it formcontainer /bin/bash
+* cd myproject
+* python manage.py createsuperuser
 
 Not : Python 3.10.8 versiyonu kullanılmıştır.
