@@ -3,3 +3,8 @@ basicforms/myproject/myapp/__pycache__
 basicforms/myproject/myapp/migrations/__pycache__
 .DS_Store
 basicforms/myproject/db.sqlite3
+
+basicmenuitems/myproject/db.sqlite3
+basicmenuitems/myproject/myproject/__pycache__
+basicmenuitems/myproject/myapp/__pycache__
+basicmenuitems/myproject/myapp/migrations/__pycache__
