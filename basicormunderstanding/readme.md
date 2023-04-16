@@ -8,10 +8,13 @@ Hedef = Basit bir ORM sistemi anlamak.
 Uygulamayı çalıştırmak için dockerize etmeniz yeterli
 
 docker build -t basicormunderstanding:0.0.1 .
+
 docker run -p 8000:8000 -d --name ormcontainer basicormunderstanding:0.0.1
+
 Eğer admin tarafından kontol etmek istiyorsak container içinde girip;
 
 docker exec -it ormcontainer /bin/bash
+
 cd myproject
 
 * python manage.py createsuperuser
