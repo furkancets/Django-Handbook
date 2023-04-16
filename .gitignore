@@ -13,3 +13,8 @@ basicormunderstanding/myproject/db.sqlite3
 basicormunderstanding/myproject/myproject/__pycache__
 basicormunderstanding/myproject/myapp/__pycache__
 basicormunderstanding/myproject/myapp/migrations/__pycache__
+
+basicroles/myproject/db.sqlite3
+basicroles/myproject/myproject/__pycache__
+basicroles/myproject/myapp/__pycache__
+basicroles/myproject/myapp/migrations/__pycache__
