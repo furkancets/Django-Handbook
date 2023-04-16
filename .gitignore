@@ -8,3 +8,8 @@ basicmenuitems/myproject/db.sqlite3
 basicmenuitems/myproject/myproject/__pycache__
 basicmenuitems/myproject/myapp/__pycache__
 basicmenuitems/myproject/myapp/migrations/__pycache__
+
+basicormunderstanding/myproject/db.sqlite3
+basicormunderstanding/myproject/myproject/__pycache__
+basicormunderstanding/myproject/myapp/__pycache__
+basicormunderstanding/myproject/myapp/migrations/__pycache__
