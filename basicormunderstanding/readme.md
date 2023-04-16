@@ -3,6 +3,9 @@ Hedef = Basit bir ORM sistemi anlamak.
 * models.py
 Öncelikle models.py'dan başlanmalı burada kayıt altına alıcanacak veriler uygun formatta tanıtılmalı.
 
+* admin.py
+Bu tarafta yine models.py'da oluşturduğumuz DrinksCategory class'ını göreceksiniz.
+
 * Bu bölümde herhangi bir views.py, .html, veya url ayarlamadan devam ediyoruz. Bundan dolayı Django'yu ayağı kaldırdığınızda karşınıza çıkan default görüntü gelecektir.
 
 Uygulamayı çalıştırmak için dockerize etmeniz yeterli
