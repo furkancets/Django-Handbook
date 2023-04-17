@@ -1,24 +1,31 @@
 Hedef = Basit bir template sistemi yaratıp hakkında sayfası yazmak ve html dosyalarunı düzenlemek.
 
 * models.py
+
 Öncelikle models.py'dan başlanmalı burada kayıt altına alıcanacak veriler uygun formatta tanıtılmalı.
 
 * admin.py
+
 Bu tarafta yine models.py'da oluşturduğumuz Menu class'ını göreceksiniz.
 
 * templates 
+
 basictemplates/myproject'in altına templates isminde bir dosya oluşturuyoruz. .html dosyalarımızı burada tutacağız.
 
 * settings.py
+
 Burada TEMPLATES kısmında DIRS bölümünde templateleri sakladığımızı göstermemiz gerekir.
 
 * about.html ve menu.html
+
 Dosyalarını oluştururuz.
 
 * views.py
+
 views.py dosyasını .html render'larını alacak şekilde döndürüyoruz.
 
 * static/img 
+
 İstediğiniz bir fotoğraf atabilirsiniz.
 
 * Not : Burada önemli olan html ve views file arasındaki ilişkiyi görebilmek.
