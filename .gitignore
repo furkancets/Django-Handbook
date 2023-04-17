@@ -28,7 +28,7 @@
 6-template-inheritance/myproject/myapp/__pycache__
 6-template-inheritance/myproject/myapp/migrations/__pycache__
 
-7-basic-menu-booking-project/myproject/db.sqlite3
-7-basic-menu-booking-project/myproject/myproject/__pycache__
-7-basic-menu-booking-project/myproject/myapp/__pycache__
-7-basic-menu-booking-project/myproject/myapp/migrations/__pycache__
+7-basic-menu-booking-project/littlelemon/db.sqlite3
+7-basic-menu-booking-project/littlelemon/littlelemon/__pycache__
+7-basic-menu-booking-project/restaurant/myapp/__pycache__
+7-basic-menu-booking-project/littlelemon/restaurant/migrations/__pycache__
