@@ -18,3 +18,8 @@ basicroles/myproject/db.sqlite3
 basicroles/myproject/myproject/__pycache__
 basicroles/myproject/myapp/__pycache__
 basicroles/myproject/myapp/migrations/__pycache__
+
+basictemplates/myproject/db.sqlite3
+basictemplates/myproject/myproject/__pycache__
+basictemplates/myproject/myapp/__pycache__
+basictemplates/myproject/myapp/migrations/__pycache__

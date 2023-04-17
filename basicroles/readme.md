@@ -4,7 +4,7 @@ Hedef = Basit bir rol atamayı anlamak.
 Öncelikle models.py'dan başlanmalı burada kayıt altına alıcanacak veriler uygun formatta tanıtılmalı.
 
 * admin.py
-Bu tarafta yine models.py'da oluşturduğumuz DrinksCategory class'ını göreceksiniz.
+Bu tarafta yine models.py'da oluşturduğumuz Employees class'ını göreceksiniz.
 
 * settings.py
 
