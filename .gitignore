@@ -22,3 +22,8 @@
 5-basic-templates/myproject/myproject/__pycache__
 5-basic-templates/myproject/myapp/__pycache__
 5-basic-templates/myproject/myapp/migrations/__pycache__
+
+6-template-inheritance/myproject/db.sqlite3
+6-template-inheritance/myproject/myproject/__pycache__
+6-template-inheritance/myproject/myapp/__pycache__
+6-template-inheritance/myproject/myapp/migrations/__pycache__
