@@ -1,25 +1,25 @@
-basicforms/django-coursera-env
-basicforms/myproject/myapp/__pycache__
-basicforms/myproject/myapp/migrations/__pycache__
+1-basic-forms/django-coursera-env
+1-basic-forms/myproject/myapp/__pycache__
+1-basic-forms/myproject/myapp/migrations/__pycache__
 .DS_Store
-basicforms/myproject/db.sqlite3
+1-basic-forms/myproject/db.sqlite3
 
-basicmenuitems/myproject/db.sqlite3
-basicmenuitems/myproject/myproject/__pycache__
-basicmenuitems/myproject/myapp/__pycache__
-basicmenuitems/myproject/myapp/migrations/__pycache__
+2-basic-menu-items/myproject/db.sqlite3
+2-basic-menu-items/myproject/myproject/__pycache__
+2-basic-menu-items/myproject/myapp/__pycache__
+2-basic-menu-items/myproject/myapp/migrations/__pycache__
 
-basicormunderstanding/myproject/db.sqlite3
-basicormunderstanding/myproject/myproject/__pycache__
-basicormunderstanding/myproject/myapp/__pycache__
-basicormunderstanding/myproject/myapp/migrations/__pycache__
+3-basic-orm-understanding/myproject/db.sqlite3
+3-basic-orm-understanding/myproject/myproject/__pycache__
+3-basic-orm-understanding/myproject/myapp/__pycache__
+3-basic-orm-understanding/myproject/myapp/migrations/__pycache__
 
-basicroles/myproject/db.sqlite3
-basicroles/myproject/myproject/__pycache__
-basicroles/myproject/myapp/__pycache__
-basicroles/myproject/myapp/migrations/__pycache__
+4-basic-roles4-basic-roles/myproject/db.sqlite3 
+4-basic-roles/myproject/myproject/__pycache__
+4-basic-roles/myproject/myapp/__pycache__
+4-basic-roles/myproject/myapp/migrations/__pycache__
 
-basictemplates/myproject/db.sqlite3
-basictemplates/myproject/myproject/__pycache__
-basictemplates/myproject/myapp/__pycache__
-basictemplates/myproject/myapp/migrations/__pycache__
+5-basic-templates/myproject/db.sqlite3
+5-basic-templates/myproject/myproject/__pycache__
+5-basic-templates/myproject/myapp/__pycache__
+5-basic-templates/myproject/myapp/migrations/__pycache__
