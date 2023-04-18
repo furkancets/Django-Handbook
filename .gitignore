@@ -2,6 +2,7 @@
 1-Django-Basics/1-basic-forms/myproject/myapp/migrations/__pycache__
 1-Django-Basics/.DS_Store
 1-Django-Basics/1-basic-forms/myproject/db.sqlite3
+.DS_Store
 
 1-Django-Basics/2-basic-menu-items/myproject/db.sqlite3
 1-Django-Basics/2-basic-menu-items/myproject/myproject/__pycache__
