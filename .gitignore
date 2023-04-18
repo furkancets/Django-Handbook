@@ -1,34 +1,39 @@
-1-basic-forms/myproject/myapp/__pycache__
-1-basic-forms/myproject/myapp/migrations/__pycache__
-.DS_Store
-1-basic-forms/myproject/db.sqlite3
+1-Django-Basics/1-basic-forms/myproject/myapp/__pycache__
+1-Django-Basics/1-basic-forms/myproject/myapp/migrations/__pycache__
+1-Django-Basics/.DS_Store
+1-Django-Basics/1-basic-forms/myproject/db.sqlite3
 
-2-basic-menu-items/myproject/db.sqlite3
-2-basic-menu-items/myproject/myproject/__pycache__
-2-basic-menu-items/myproject/myapp/__pycache__
-2-basic-menu-items/myproject/myapp/migrations/__pycache__
+1-Django-Basics/2-basic-menu-items/myproject/db.sqlite3
+1-Django-Basics/2-basic-menu-items/myproject/myproject/__pycache__
+1-Django-Basics/2-basic-menu-items/myproject/myapp/__pycache__
+1-Django-Basics/2-basic-menu-items/myproject/myapp/migrations/__pycache__
 
-3-basic-orm-understanding/myproject/db.sqlite3
-3-basic-orm-understanding/myproject/myproject/__pycache__
-3-basic-orm-understanding/myproject/myapp/__pycache__
-3-basic-orm-understanding/myproject/myapp/migrations/__pycache__
+1-Django-Basics/3-basic-orm-understanding/myproject/db.sqlite3
+1-Django-Basics/3-basic-orm-understanding/myproject/myproject/__pycache__
+1-Django-Basics/3-basic-orm-understanding/myproject/myapp/__pycache__
+1-Django-Basics/3-basic-orm-understanding/myproject/myapp/migrations/__pycache__
 
-4-basic-roles4-basic-roles/myproject/db.sqlite3 
-4-basic-roles/myproject/myproject/__pycache__
-4-basic-roles/myproject/myapp/__pycache__
-4-basic-roles/myproject/myapp/migrations/__pycache__
+1-Django-Basics/4-basic-roles4-basic-roles/myproject/db.sqlite3 
+1-Django-Basics/4-basic-roles/myproject/myproject/__pycache__
+1-Django-Basics/4-basic-roles/myproject/myapp/__pycache__
+1-Django-Basics/4-basic-roles/myproject/myapp/migrations/__pycache__
 
-5-basic-templates/myproject/db.sqlite3
-5-basic-templates/myproject/myproject/__pycache__
-5-basic-templates/myproject/myapp/__pycache__
-5-basic-templates/myproject/myapp/migrations/__pycache__
+1-Django-Basics/5-basic-templates/myproject/db.sqlite3
+1-Django-Basics/5-basic-templates/myproject/myproject/__pycache__
+1-Django-Basics/5-basic-templates/myproject/myapp/__pycache__
+1-Django-Basics/5-basic-templates/myproject/myapp/migrations/__pycache__
 
-6-template-inheritance/myproject/db.sqlite3
-6-template-inheritance/myproject/myproject/__pycache__
-6-template-inheritance/myproject/myapp/__pycache__
-6-template-inheritance/myproject/myapp/migrations/__pycache__
+1-Django-Basics/6-template-inheritance/myproject/db.sqlite3
+1-Django-Basics/6-template-inheritance/myproject/myproject/__pycache__
+1-Django-Basics/6-template-inheritance/myproject/myapp/__pycache__
+1-Django-Basics/6-template-inheritance/myproject/myapp/migrations/__pycache__
 
-7-basic-menu-booking-project/littlelemon/db.sqlite3
-7-basic-menu-booking-project/littlelemon/littlelemon/__pycache__
-7-basic-menu-booking-project/littlelemon/restaurant/__pycache__
-7-basic-menu-booking-project/littlelemon/restaurant/migrations/__pycache__
+1-Django-Basics/7-basic-menu-booking-project/littlelemon/db.sqlite3
+1-Django-Basics/7-basic-menu-booking-project/littlelemon/littlelemon/__pycache__
+1-Django-Basics/7-basic-menu-booking-project/littlelemon/restaurant/__pycache__
+1-Django-Basics/7-basic-menu-booking-project/littlelemon/restaurant/migrations/__pycache__
+
+2-Django-Restframework-API/1-basic-API-requests/BookList/__pycache__
+2-Django-Restframework-API/1-basic-API-requests/BookListDRF/migrations/__pycache__
+2-Django-Restframework-API/1-basic-API-requests/db.sqlite3
+2-Django-Restframework-API/1-basic-API-requests/Pipfile.lock
