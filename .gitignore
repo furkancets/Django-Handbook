@@ -38,3 +38,8 @@
 2-Django-Restframework-API/1-basic-API-requests/BookListDRF/migrations/__pycache__
 2-Django-Restframework-API/1-basic-API-requests/db.sqlite3
 2-Django-Restframework-API/1-basic-API-requests/Pipfile.lock
+
+2-Django-Restframework-API/2-basic-API-json/BookList/__pycache__
+2-Django-Restframework-API/2-basic-API-json/BookListAPI/__pycache__
+2-Django-Restframework-API/2-basic-API-json/db.sqlite3
+2-Django-Restframework-API/2-basic-API-json/Pipfile.lock
