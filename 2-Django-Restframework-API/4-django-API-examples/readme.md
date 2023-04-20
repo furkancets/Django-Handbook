@@ -10,13 +10,15 @@ API'ın nasıl görüneceğini viewlar sayesinde oluşturduğumuzu hatırlıyoru
 
 Burada özellikle bir class'ı buraya getirdim altına bir iki not ekleyelim.
 
+```python
 class MenuItemsView(generics.ListCreateAPIView):
     queryset = MenuItem.objects.all()
     serializer_class = MenuItemSerilizer
+```
 
 MenuItem.objects.all() bu kod satırı diyor ki ; MenuItem adında models.py'da oluşturduğun objects yapısına git ve tüm kayıtları çağır.
 
-Yani SQL dilinde ' select * from MenuItem; '
+Yani SQL dilinde  ``` select * from MenuItem; ```
 
 Öncelikle generics rest_framework'ün içinden gelen bir kütüphane ve aşağıdaki işlemleri yapabiliyor;
 
