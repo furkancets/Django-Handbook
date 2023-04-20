@@ -48,3 +48,6 @@
 2-Django-Restframework-API/3-djangoDRF-debug-toolbar/BookListAPI/__pycache__
 2-Django-Restframework-API/3-djangoDRF-debug-toolbar/db.sqlite3
 2-Django-Restframework-API/3-djangoDRF-debug-toolbar/Pipfile.lock
+
+2-Django-Restframework-API/4-django-API-examples/LittleLemon/db.sqlite3
+2-Django-Restframework-API/4-django-API-examples/Pipfile.lock
