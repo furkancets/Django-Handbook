@@ -1,4 +1,4 @@
-Hedef = http://127.0.0.1:8000/api/menu-items/ gittiğiniz'de sağ üst köşede DjDT simgesine bakıp bunu keşfetmek.
+Hedef = http://127.0.0.1:8000/api/menu-items/ 'i keşfetmek.
 
 * models.py
 
