@@ -49,8 +49,6 @@ docker build -t apiserializers:0.0.1 .
 
 docker run -p 8000:8000 -d --name serializerscontainer apiserializers:0.0.1
 
-Eğer admin tarafından kontol etmek istiyorsak container içinde girip;
-
 Not : Python 3.10.8 versiyonu kullanılmıştır.
 
 https://knasmueller.net/fix-djangos-debug-toolbar-not-showing-inside-docker

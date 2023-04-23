@@ -1,10 +1,10 @@
 FROM python:3.10-slim-buster
 
-WORKDIR /relationserializers
+WORKDIR /restful-sofp
 
-COPY  . /relationserializers
+COPY  . /restful-sofp
 
-RUN pip3 install -r requirements.txt
+RUN pip3 install -r LittleLemon/requirements.txt
 
 RUN python LittleLemon/manage.py makemigrations && python LittleLemon/manage.py migrate
 

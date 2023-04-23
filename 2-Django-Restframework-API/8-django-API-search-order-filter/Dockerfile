@@ -1,8 +1,8 @@
 FROM python:3.10-slim-buster
 
-WORKDIR /relationserializers
+WORKDIR /restful-sof
 
-COPY  . /relationserializers
+COPY  . /restful-sof
 
 RUN pip3 install -r requirements.txt
 

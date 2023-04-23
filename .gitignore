@@ -55,3 +55,9 @@
 2-Django-Restframework-API/5-django-API-models-serializers/Pipfile.lock
 
 2-Django-Restframework-API/6-django-API-relationship-serializers/Pipfile.lock
+
+2-Django-Restframework-API/8-django-API-search-order-filter/Pipfile.lock
+
+2-Django-Restframework-API/9-django-API-search-order-filtering-pagination/LittleLemon/LittleLemon/__pycache__
+2-Django-Restframework-API/9-django-API-search-order-filtering-pagination/LittleLemon/LittleLemonDRF/__pycache__
+2-Django-Restframework-API/9-django-API-search-order-filtering-pagination/LittleLemon/LittleLemonDRF/migrations/__pycache__
