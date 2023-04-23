@@ -43,7 +43,7 @@ Değişiklikleri yaptığımız odaklanmamız gereken fonksiyon.
 
 Bir önceki çalışmamızın temiz ve kolay hali.
 
-``` 
+``` python
 class CategoriesView(generics.ListCreateAPIView):
     queryset = Category.objects.all()
     serializer_class = CategorySerializer
