@@ -70,14 +70,6 @@ docker attach relationcontainer (ctrl+c dediğinizde konteyner'ı stop edecektir
 ```
 ```
 {
-"title": “künefe”,
-"price": “55.00",
-"stock": 2,
-"category_id”:3
-}
-```
-```
-{
 "title": "künefe",
 "price": "55.00",
 "stock": 2,
