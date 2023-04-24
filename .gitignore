@@ -63,3 +63,5 @@
 2-Django-Restframework-API/9-django-API-search-order-filtering-pagination/LittleLemon/LittleLemonDRF/migrations/__pycache__
 
 2-Django-Restframework-API/10-django-API-token-based-auth/Pipfile.lock
+
+2-Django-Restframework-API/11-django-API-user-based-auth/Pipfile.lock
