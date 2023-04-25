@@ -69,3 +69,5 @@
 2-Django-Restframework-API/12-django-API-throttling/Pipfile.lock
 
 2-Django-Restframework-API/13-django-API-djoser-auth/Pipfile.lock
+
+2-Django-Restframework-API/14-django-API-JWT-auth/Pipfile.lock
